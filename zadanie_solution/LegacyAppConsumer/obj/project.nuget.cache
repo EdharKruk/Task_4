@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2yq04y3Tee3fcZj7Odz+024m/x/+HPdQ4sjTKv4GrSS9HLjV6+7zwkjlWxS6nT9EQK3kLsWWoqkdOisMk9Cfnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mi\\Downloads\\zadanie_with_initial_tests (1)\\zadanie_solution\\LegacyAppConsumer\\LegacyAppConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Mi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
